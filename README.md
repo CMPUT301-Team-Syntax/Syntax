@@ -8,3 +8,6 @@ CMPUT301 Lab 4 for team Syntax
 | `Sorachat Chaichana`    | `sorachat` |
 | `Luke Salonka`    | `salonka` |
 | `Audrey Oni`    | `aeoni` |
+| `Zelin Zeng`    | `zelin11` |
+| `Uchenna Ibeziako`    | `ibeziako` |
+| `Andrew Hughes`    | `anhughes` |
