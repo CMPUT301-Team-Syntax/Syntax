@@ -1,7 +1,7 @@
 # Syntax
 CMPUT301 Lab 4 for team Syntax
 
-## CCID aeoni
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
