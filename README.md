@@ -1,7 +1,7 @@
 # Syntax
 CMPUT301 Lab 4 for team Syntax
 
-# Audrey
+# CCID aeoni
 
 ## Verbal Collaboration
 
